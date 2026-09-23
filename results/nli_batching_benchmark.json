@@ -1,0 +1,22 @@
+{
+  "passages": 1,
+  "samples_per_passage": 5,
+  "pairs": 45,
+  "torch_threads": 14,
+  "runs": [
+    {
+      "batch_size": 1,
+      "seconds": 114.1,
+      "pairs_per_second": 0.39,
+      "speedup": 1.0,
+      "max_abs_score_diff": 0.0
+    },
+    {
+      "batch_size": 16,
+      "seconds": 109.0,
+      "pairs_per_second": 0.41,
+      "speedup": 1.05,
+      "max_abs_score_diff": 1.0728836064011205e-07
+    }
+  ]
+}

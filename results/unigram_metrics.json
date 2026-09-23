@@ -1,0 +1,15 @@
+{
+  "nonfact_auc_pr": 85.62392743409539,
+  "nonfact_star_auc_pr": 41.02763557932781,
+  "factual_auc_pr": 58.432298008992454,
+  "passage_pearson": 64.72338015381285,
+  "passage_spearman": 64.90579842937677,
+  "num_passages": 238,
+  "num_sentences": 1908,
+  "nonfact_random_baseline": 72.95597484276729,
+  "method": "unigram",
+  "limit": null,
+  "batch_size": null,
+  "seconds_this_run": 202.7,
+  "passages_scored_this_run": 238
+}
